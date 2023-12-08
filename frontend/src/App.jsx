@@ -1,9 +1,10 @@
 import "./App.css"
+import Forms from "./components/Forms"
 
 const App = () => {
     return (
         <div className='app'>
-            <h1>Hello world</h1>
+            <Forms />
         </div>
     )
 }
